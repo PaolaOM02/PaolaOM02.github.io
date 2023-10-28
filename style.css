@@ -328,6 +328,7 @@ footer {
   padding: 20px;
   margin-bottom: 30px;
   font-family: 'Quicksand', sans-serif;
+  color: #87758f;
 }
 
 .iconos-redes-sociales a {
@@ -338,13 +339,13 @@ footer {
   justify-content: center;
   padding: 2px;
   margin: 10px;
-  border: 2px solid white;
+  border: 2px solid #87758f;
   border-radius: 50%;
   transition: all 0.2s ease-in;
 }
 
 .iconos-redes-sociales i {
-  color: white;
+  color: #87758f;
   font-size: 1.5rem;
   transition: all 0.2s ease-in;
 }
